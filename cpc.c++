@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+    // Change
     int p;
     cin >> p;
     int a, b, c;
